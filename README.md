@@ -32,7 +32,7 @@ Angular cli, Markdown, Bootstrap, HTML, CSS & Javascript.
 
 ### Contact me on: einsteineliame@gmail.com
 I encourage anyone who has any contribution to make to this code to improve it do so. 
-Live link:https://einsteinelaim.github.io/Delani-Studio/
+Live link:https://einsteinelaim.github.io/Quotes-Week-1-IP/
 
 
 ### License
